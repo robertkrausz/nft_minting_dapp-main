@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x685e90A20dEE73633701CBb1fcE346FD83fEa3F2",
+  "SCAN_LINK": "https://polygonscan.com/token/0x685e90A20dEE73633701CBb1fcE346FD83fEa3F2",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "BAYC",
+  "SYMBOL": "BAYC",
+  "MAX_SUPPLY": 7777,
+  "WEI_COST": 1000000000000000000,
+  "DISPLAY_COST": 1,
+  "GAS_LIMIT": 3000000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/0303testing",
+  "SHOW_BACKGROUND": true
+}
